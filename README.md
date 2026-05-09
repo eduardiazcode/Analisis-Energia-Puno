@@ -4,6 +4,8 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![WSL Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
+![Dashboard](dashboard.png)
+
 ## 📌 Descripción
 
 Análisis exploratorio de 357,000 registros de suministros eléctricos del departamento de Puno, Perú. Los datos fueron extraídos de la **Plataforma Nacional de Datos Abiertos del Perú** ([datos.gob.pe](https://www.datosabiertos.gob.pe/)) y corresponden al período de Marzo 2026.
